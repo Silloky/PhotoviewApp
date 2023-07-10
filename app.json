@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Photoview",
+    "slug": "Photoview",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
